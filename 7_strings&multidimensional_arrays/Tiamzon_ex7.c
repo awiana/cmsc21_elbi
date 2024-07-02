@@ -1,4 +1,4 @@
-//Exercise 7: Strings and Multidimensional Arrays
+// Exercise 7: Strings and Multidimensional Arrays
 // Edgar Alan Emmanuel B. Tiamzon III
 // ST5L
 // 05 - 08 - 24
