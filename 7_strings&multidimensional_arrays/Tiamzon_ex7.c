@@ -1,5 +1,5 @@
 // Exercise 7: Strings and Multidimensional Arrays
-// Edgar Alan Emmanuel B. Tiamzon III
+// Tiamzon, Edgar Alan Emmanuel III B.
 // ST5L
 // 04 - 08 - 24
 
